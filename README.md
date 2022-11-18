@@ -1,12 +1,51 @@
 # DigiBP_ClinicalPathway
 
-In the healthcare sector, conceptual modeling becomes increasingly important for process optimiza- tion and standardization efforts in the context of Clinical Pathways (CP). CPs are specific, standard- ized descriptions of clinical processes for defined combinations of symptoms, which are adapted to
+Telemedicine pathway
 
-clinical conditions. They are geared to the whole multidisciplinary care process of a certain patient type. CPs are more than only the structure of a care process and a part of the electronic patient records. A CP is understood as a “patient-focused concept, a tool to model the care, a quality and efficiency improvement process and a product in the patient record”.
-The treatment processes of CPs have to be described in their essential steps. The major impact of CPs is to foster the organization of complex medical treatment processes for similar patient types. This supports clinics in terms of economic processes and quality orientation. It also facilitates control and coordination of the treatment chain, and ensures the straightforward treatment for the patient based on treatment standards.
-The process to be modeled shall include:
- 3
-- - -
-Organisational units and roles 
-Activities within the Clinical Pathways 
-Decisions within the Clinical Pathways
+Introduction 
+Digitalization of consultation and appointment is the first step in transforming healthcare. Digitalization of health care is often termed as telehealth
+and Telemedinine is a subset of telehealth. Telehealth covers all health services provided using telecommunication technology and telemedicine refers specially to clinical services under that umbrella.Telemedicine is the practice of medicine using technology to deliver care at a distance over a telecommunications infrastructure and between a patient at an originating sit and a physician or other practitioner license to practice medicine at a distant site. 
+It generally comprises real time synchronous care through video or phone and asynchronous visits which do not happen in real time. These are often e-consults communication over email and the sharing and forwarding of patient medical data with other clinicians.
+
+
+
+
+
+
+
+
+
+
+Project goal 
+
+ To automate the  telemedicine pathway to save cost in healthcare. 
+ By integrating appointment process of in-person/virtual meeting/ sending hospital, connecting doctor's presription to pharmacy, keeing lab reports, 
+ making treatment plans,  we would like to create a pathway.
+ 
+Software -
+
+For process automation download camunda BPMN/DMN modeler  
+https://camunda.com/download/modeler/
+To build, create and automate workflows dow
+https://www.make.com/en
+
+ 
+ Project description 
+ 
+ 
+ 
+ Authors and acknowledgement
+1. Marc Molina Van den Bosch
+2. Caterina Montalbano
+3. Dibya kumari
+4. Marco de Luca
+
+Responsibilities
+
+ 1. Marc Molina Van den Bosch( Modelling )
+ 2. Marco the Luca 
+ 3. Caterina Montalbano
+ 4. Dibya Kumari(
+
+
+ 
