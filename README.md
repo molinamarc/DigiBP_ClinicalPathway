@@ -53,7 +53,7 @@ Responsibilities
 
  1. Marc Molina Van den Bosch( Modelling )
  2. Marco the Luca (Modelling)
- 3. Caterina Montalbano
+ 3. Caterina Montalbano (Service Integration)
  4. Dibya Kumari(
 
 
