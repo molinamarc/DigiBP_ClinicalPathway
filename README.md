@@ -39,7 +39,7 @@ https://www.make.com/en
  
  Project description 
  
- 
+ Send and get patient survey ----> Present/ Remote decision -----> Check doctor availability -----> Send appointment date and decision ------>check patient acceptance -----> Reserve digital/ presence room and save on doctor's agenda-----> send meeting details
  
  
  
@@ -52,9 +52,9 @@ https://www.make.com/en
 Responsibilities
 
  1. Marc Molina Van den Bosch( Modelling )
- 2. Marco the Luca (Modelling)
- 3. Caterina Montalbano
- 4. Dibya Kumari(
+ 2. Marco the Luca (Modelling,presentation)
+ 3. Caterina Montalbano(integration)
+ 4. Dibya Kumari(Readme, presentation)
 
 
  
